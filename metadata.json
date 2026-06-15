@@ -1,0 +1,6 @@
+{
+  "name": "Momenzi",
+  "description": "A modern, premium Personal Productivity Operating System combining planning, deep work, calendar, bookings, and gamification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
